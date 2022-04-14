@@ -1,0 +1,14 @@
+{
+  "name": "portfolio-schema",
+  "version": "0.0.1",
+  "description": "JSON Portfolio Schema",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "JSON-Portfolio",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
