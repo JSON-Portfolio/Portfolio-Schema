@@ -4,11 +4,15 @@
   "description": "JSON Portfolio Schema",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "test": "",
+    "start": "tsc && echo \"Compiling\""
   },
   "author": "JSON-Portfolio",
   "license": "MIT",
   "devDependencies": {
+    "@types/node": "^17.0.24",
+    "ts-node": "^10.7.0",
+    "tslint": "^6.1.3",
     "typescript": "^4.6.3"
   }
 }
