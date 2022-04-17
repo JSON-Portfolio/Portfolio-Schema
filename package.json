@@ -2,7 +2,7 @@
   "name": "portfolio-schema",
   "version": "0.0.1",
   "description": "JSON Portfolio Schema",
-  "main": "index.js",
+  "main": "./src/build/",
   "scripts": {
     "test": "",
     "start": "tsc && echo \"Compiling\""
